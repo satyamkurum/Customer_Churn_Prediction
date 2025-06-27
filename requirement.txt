@@ -1,0 +1,9 @@
+```txt
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+streamlit
+joblib
+```
